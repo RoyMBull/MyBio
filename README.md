@@ -21,3 +21,9 @@
 
    My long term goal is to secure a red team engineer position as a penetration tester. I am currently going for my CompTIA Security+, CompTIA PenTest+, and
    CEH Certifications. Take a look at what's featured on my main page, as well as my GitHub.
+
+# Additional Information
+
+   I also have a write up from a hacking CTF challenge I participated in from security innovation as part of a job interview. The challenge was really fun, 
+   so I decided to type a write up as I went along, explaining my thought process as I went about it. It's an 11 page write up. If you want to see how I 
+   critically think, briefly browse around it if you wish to!
