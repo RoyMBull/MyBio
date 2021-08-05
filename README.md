@@ -27,4 +27,4 @@
    I also have a write up from a hacking CTF challenge I participated in from security innovation as part of a job interview. The challenge was really fun, 
    so I decided to type a write up as I went along, explaining my thought process as I went about it. It's an 11 page write up. If you want to see how I 
    critically think, briefly browse around it if you wish to!
-   https://docs.google.com/document/d/1HqkxXK0Yb4tOR9rO6TvL7Cwxo4ExtEkgzYs548S9FzI/edit
+https://docs.google.com/document/d/1HqkxXK0Yb4tOR9rO6TvL7Cwxo4ExtEkgzYs548S9FzI/edit?usp=sharing
