@@ -1,9 +1,21 @@
 # My Bio
 
-   I’m a self-taught software engineer with a background in cyber security/penetration testing, and have been programming for over 8 years, 
-   going on 9 now. One of my specialties is reverse engineering. I like to reverse engineer various core API’s and technologies in order to 
-   explore and fabricate new ideas that will make my projects come to life. My favorite video game series known as the MBNS(Megaman Battle 
-   Network Series) inspired me to want to learn how to code/program.
+   Self-motivated Cyber Security Professional with a background in Software Engineering, IT Technical Support, Security Engineering, and proficiency in Electrical engineering and Reverse Engineering.
+   
+   I have a love and passion for offensive security. I reverse engineer various core API’s and technologies in order to explore and fabricate new ideas that will make my projects come to life.
+   
+   I use my Software Engineering skills to design custom exploits and penetration testing tools, and CTF servers that demonstrate my Security Engineering skills and ingenious ingenuity.
+   
+   My Electrical Engineering skills allow me to devise various custom tools such as keyboard injection exploits that manipulate the virtual keyboard API of a system in order to inject payloads and bypass        security measures for security testing, some with the ability to write their own code, which I use to extend further C/C++ Win32API and LinuxAPI exploits along with python scripts.
+   
+   On top of being proficient in C/C++ I’m also proficient in 13 programming languages in total, my main ones being: C/C++, Python3, Bash, SQL, HTML/CSS/JS, PHP, and of course a bit of Powershell scripting      as well.
+   
+   My IT skills are on par with level 4 tier experience. I use my reverse engineering skills in order to deduce probable causes and solutions for technical problems.
+   
+   Reverse engineering is my specialty and is how I learn. Given my level of ingenuity, I was allowed to operate above my tier level and demonstrate my skill sets to the fullest and solve lots of complex        technical problems at the companies that I worked at, including the infamous Pfizer Pharmaceutical company, which I have thorough documentation of in my research portfolio.
+   
+   My skill sets won’t disappoint you! Check out my work and my research. I take pride in what I do as a professional hacker.
+
    
 # Why I'm self taught?
 
